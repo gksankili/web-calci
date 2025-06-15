@@ -44,9 +44,10 @@ python app.py
 ```
 🐳 Run with Docker
 ### 3. Build the Docker Image
-bash
+```bash
 docker build -t web-calci .
-▶️ Run the Docker Container
+```
+### 4. Run the Docker Container
 ```bash
 docker run -d -p 5000:5000 --name web-calci-app web-calci
 ```
