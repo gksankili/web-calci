@@ -78,6 +78,7 @@ web-calci/
 ```
 
 📝 License
+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
 This project is open source and available under the MIT License.
 
 🙋‍♂️ Author
